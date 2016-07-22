@@ -24,19 +24,11 @@ Note: There is a list of feature requests [here](https://github.com/FeroxRev/Pok
 ```
 
 ## Setting it up
-Note: You need some basic Computer Expierience, if you need help somewhere, ask the community and do not spam us via private messages. **The Issue Tracker is not for help!**
 
-
-1. Download and Install [Visual Studio 2015](https://go.microsoft.com/fwlink/?LinkId=691979&clcid=0x407)
-2. Download [this Repository](https://github.com/nesttle/Necronomicon-Pokemon-Bot-Builds/archive/master.zip)
-3. Open Pokemon Go Rocket API.sln
-4. On the right hand side, double click on UserSettings.settings
-5. Enter the DefaultLatitude and DefaultLongitude [can be found here](http://mondeca.com/index.php/en/any-place-en)
-6. Select the AuthType (Google or Ptc for Pokémon Trainer Club)
-7. If selected Ptc , enter the Username and Password of your Account
-8. Right click on PokemonGo.RocketAPI.Console and Set it as Startup Project
-9. Press CTRL + F5 and follow the Instructions
-10. Have fun! 
+1. Download [this Repository](https://github.com/nesttle/Necronomicon-Pokemon-Bot-Builds/archive/master.zip)
+2. Edit 'PokemonGo.RocketAPI.Console.exe.config' in Notepad++ / Bloc.
+3. Run 'PokemonGo.RocketAPI.Console.exe'.
+4. Profit!
 
 ## License
 This Project is licensed as GNU (GNU GENERAL PUBLIC LICENSE v3) 

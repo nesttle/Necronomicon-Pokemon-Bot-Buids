@@ -4,7 +4,7 @@ Necronomicon's Pokemon GO Bot - All builds updated.
 
 ## About
 
-Chat about this builds in forocoches.com. Threads here: http://bit.ly/29ZUqwL
+Chat about this builds in forocoches.com. Check active threads here: http://bit.ly/29ZUqwL
 
 
 ## Features
@@ -33,13 +33,10 @@ Note: There is a list of feature requests [here](https://github.com/FeroxRev/Pok
 
 ## License
 This Project is licensed as GNU (GNU GENERAL PUBLIC LICENSE v3) 
-
 You can find all necessary Information [here](https://github.com/NecronomiconCoding/Pokemon-Go-Bot/blob/master/LICENSE.md)
-
 
 ## Credits
 Thanks to Ferox hard work on the API & Console we are able to manage something like this. Without him that would have been nothing. <3
-
 Thanks to everyone who contributed via Pull Requests!
 
-@Sona, @Dr.Pollanorme, @Nicki Minaj, @klurosu, @dma__89, @maclone, @Cañordo and ForoCoches.com
+@Sona, @Dr.Pollanorme, @Nicki Minaj, @klurosu, @dma__89, @maclone, @Cañordo, and all ForoCoches PokéfakeGPS members :)

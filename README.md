@@ -1,4 +1,4 @@
-# Necronomicon-Pokemon-Bot-Buids
+# Necronomicon-Pokemon-Bot-Builds
 Necronomicon's Pokemon GO Bot - All builds updated.
 @[Nicki Minaj](http://www.forocoches.com/foro/member.php?u=681878) - [post](http://www.forocoches.com/foro/showthread.php?t=5052400&page=2)
 

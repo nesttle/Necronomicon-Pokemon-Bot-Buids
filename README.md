@@ -28,7 +28,7 @@ Note: You need some basic Computer Expierience, if you need help somewhere, ask 
 
 
 1. Download and Install [Visual Studio 2015](https://go.microsoft.com/fwlink/?LinkId=691979&clcid=0x407)
-2. Download [this Repository](https://github.com/NecronomiconCoding/Pokemon-Go-Bot/archive/master.zip)
+2. Download [this Repository](https://github.com/nesttle/Necronomicon-Pokemon-Bot-Builds/archive/master.zip)
 3. Open Pokemon Go Rocket API.sln
 4. On the right hand side, double click on UserSettings.settings
 5. Enter the DefaultLatitude and DefaultLongitude [can be found here](http://mondeca.com/index.php/en/any-place-en)

@@ -28,8 +28,9 @@ Note: There is a list of feature requests [here](https://github.com/FeroxRev/Pok
 
 1. Download [this Repository](https://github.com/nesttle/Necronomicon-Pokemon-Bot-Builds/archive/master.zip)
 2. Edit 'PokemonGo.RocketAPI.Console.exe.config' in Notepad++ / Bloc.
-3. Run 'PokemonGo.RocketAPI.Console.exe'.
-4. Profit!
+3. Edit 'Coords.txt' in Notepad++ / Bloc.
+4. Run 'PokemonGo.RocketAPI.Console.exe'.
+5. Profit!
 
 ## License
 This Project is licensed as GNU (GNU GENERAL PUBLIC LICENSE v3) 
